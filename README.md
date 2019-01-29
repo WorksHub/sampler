@@ -1,2 +1,5 @@
 # sampler
-This is a SAMPLE Repo. Get it? SAMPLER. Nothing to see here, move along.
+
+This is a SAMPLE Repo. Get it? SAMPLER.
+
+There’s gonna be some content here shortly…
