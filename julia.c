@@ -6,7 +6,7 @@
 
 #define SIZE_X		80
 #define SIZE_Y		24
-#define FPS		75	
+#define FPS		90	
 
 static char pixels[] = "  .,:;o*[M#";
 
